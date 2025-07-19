@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'AG Book Rounded';
-    src: url("/css/fonts/AGBookRounded-Bold.woff2") format('woff2'),
-        url("/css/fonts/AGBookRounded-Bold.woff") format('woff');
+    src: url("https://bunniexd11037.github.io/css/fonts/AGBookRounded-Bold.woff2") format('woff2'),
+        url("https://bunniexd11037.github.io/css/fonts/AGBookRounded-Bold.woff") format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
