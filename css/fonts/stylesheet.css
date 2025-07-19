@@ -1,4 +1,6 @@
 @font-face {
   font-family: "AG Book Rounded";
-  src: url("css/fonts/AGBookRounded-Bold.woff") format("woff");
+  src: url("/css/fonts/AGBookRounded-Bold.woff") format("woff"),
+  url("/css/fonts/AGBookRounded-Bold.woff2") format("woff2");
+
 }
