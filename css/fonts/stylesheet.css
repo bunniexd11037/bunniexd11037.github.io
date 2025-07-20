@@ -1,8 +1,0 @@
-@font-face {
-  font-family: "AGBookRoundedBold";
-  src: url("/css/fonts/ag-book-rounded-bold.otf") format("otf");
-
-}
-div {
-  font-family: AGBookRoundedBold;
-}
