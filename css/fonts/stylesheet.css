@@ -4,3 +4,6 @@
   url("/css/fonts/AGBookRounded-Bold.woff2") format("woff2");
 
 }
+div {
+  font-family: AG Book Rounded;
+}
