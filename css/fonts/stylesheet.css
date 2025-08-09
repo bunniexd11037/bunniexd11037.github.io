@@ -1,1 +1,9 @@
-https)@import url(https://db.onlinewebfonts.com/c/8c10134f19be1d38074f23fb85dfb28b?family=Artistry+Valentino);
+@font-face {
+    font-family: "Artistry Valentino";
+    src: url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.eot");
+    src: url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/8c10134f19be1d38074f23fb85dfb28b.svg#Artistry Valentino")format("svg");
+}
