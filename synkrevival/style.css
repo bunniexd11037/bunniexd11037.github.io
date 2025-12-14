@@ -1,0 +1,11 @@
+@import url(https://db.onlinewebfonts.com/c/158a997f8a01e5bd6f96844ae5739add?family=AG+Book+Rounded+Bold);
+@font-face {
+    font-family: "AG Book Rounded Bold";
+    src: url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.eot");
+    src: url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.svg#AG Book Rounded Bold")format("svg");
+}
+
