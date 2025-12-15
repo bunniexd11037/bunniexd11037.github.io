@@ -18,4 +18,13 @@
     url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.ttf")format("truetype"),
     url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.svg#Helvetica")format("svg");
 }
-
+@import url(https://db.onlinewebfonts.com/c/1c015c07884e43902babf51c14abf413?family=AG+Book+Rounded+Regular);
+@font-face {
+    font-family: "AG Book Rounded";
+    src: url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.eot");
+    src: url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1c015c07884e43902babf51c14abf413.svg#AG Book Rounded Regular")format("svg");
+}
