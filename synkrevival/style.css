@@ -8,4 +8,14 @@
     url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.ttf")format("truetype"),
     url("https://db.onlinewebfonts.com/t/158a997f8a01e5bd6f96844ae5739add.svg#AG Book Rounded Bold")format("svg");
 }
+@import url(https://db.onlinewebfonts.com/c/0ea33830686c6ee0453b626d9aac208e?family=Helvetica);
+@font-face {
+    font-family: "Helvetica";
+    src: url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.eot");
+    src: url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.svg#Helvetica")format("svg");
+}
 
