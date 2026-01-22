@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Segoe UI";
+    src: url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.eot");
+    src: url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/623c7118249e082fe87a78e08506cb4b.svg#Segoe UI")format("svg");
+}
