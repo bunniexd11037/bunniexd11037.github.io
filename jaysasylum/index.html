@@ -1,25 +1,13 @@
 <html>
 <head>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="style.css" type="text/css">
-<title>Jay's Asylum</title>
+<title>Jay's Asylum | Test</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 </head>
-<body bgcolor="#ffffff">
-
-<img src="nav.png" width="150" height="" valign="left" usemap="#nav">
-
-<map name="nav">
-    <area target="navframe" alt="" title="" href="mainpage.html" coords="0,0,917,227" shape="rect">
-    <area target="navframe" alt="" title="" href="news/" coords="0,227,916,452" shape="rect">
-    <area target="navframe" alt="" title="" href="about/" coords="0,452,916,675" shape="rect">
-    <area target="navframe" alt="" title="" href="discography/" coords="0,675,916,897" shape="rect">
-    <area target="navframe" alt="" title="" href="gallery/" coords="0,897,916,1120" shape="rect">
-    <area target="navframe" alt="" title="" href="downloads/" coords="0,1120,916,1343" shape="rect">
-    <area target="navframe" alt="" title="" href="links/" coords="0,1342,916,1571" shape="rect">
-</map>
-
-<iframe name="navframe" width="415px" height="700px" src="mainpage.html" scrolling="no" marginwidth="0" marginheight="0" align="left" style="border:4px solid blue;"></iframe>
-
-  
-</body>
+<frameset noresize = "noresize" cols = "415px, *" marginwidth = '5' marginheight = '' frameborder = 'no'>
+	<frame src="mainpage.html" name = "mainframe" scrolling = "auto">
+	<frame src="nav.html" name = "navigation" scrolling = "no">
+</frameset>
+ <noframes>
+	<body>welp. your browser doesn't support frames.</body>
+ </noframes>
 </html>
