@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+@font-face {
+    font-family: "Citizen Dick";
+    src: url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.eot");
+    src: url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/acb0c38be30eb741de3d9d9baf5cc19b.svg#Citizen Dick")format("svg");
+}
