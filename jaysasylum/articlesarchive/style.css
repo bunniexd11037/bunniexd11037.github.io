@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/segoe-ui-4');
+
+div {
+  background-color: #ffee99;
+  width: 200px;
+  height: 900px;
+  margin-bottom: 12px;
+}
+.Div1a {
+  background: url("/jaysasylum/articlesarchive/bkg.png") tan 200px bottom;
+  background-position:
+    0px 0px,
+    right 3em bottom 2em;
+}
+  a:link {
+  color: #c8eaea;
+}
+
+a:visited {
+  color: #c1c18b;
+}
+
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #7f7d4b;
+  color: white;
+}
