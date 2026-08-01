@@ -1,1 +1,52 @@
+/*fonts*/
+
 @import url('https://fonts.cdnfonts.com/css/segoe-ui-4');
+
+/*main*/
+
+.Div1 {
+  border: 3px solid #899FAE;
+  background-image: linear-gradient(to bottom, white, #DAF3FF);
+  color: #8195A3;
+  text-align: center;
+  width: 496px;
+  border-radius:5px;
+}
+
+.Div2 {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#bfd255+0,8eb92a+50,72aa00+51,9ecb2d+100;Green+Gloss */
+ background-image: linear-gradient(to bottom,  #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  border: 3px solid #597600;
+  color: ;
+  text-align: center;
+  width: 470px;
+  border-radius:5px;
+}
+
+.Div3 {
+  border: 3px solid grey;
+  background: linear-gradient(to bottom,  #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%);
+  color: #8195A3;
+  text-align: center;
+  width: 470px;
+  border-radius:5px;
+}
+
+/*links*/
+
+a:link {
+  color: #33ACDD;
+}
+
+a:visited {
+  color: #004080;
+}
+
+/*footer*/
+
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #21495b;
+  color: black;
+}
