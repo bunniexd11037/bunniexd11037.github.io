@@ -15,7 +15,7 @@
 
 .Div2 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#bfd255+0,8eb92a+50,72aa00+51,9ecb2d+100;Green+Gloss */
- background-image: linear-gradient(to bottom,  #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background-image: linear-gradient(to bottom,  #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%);
   border: 3px solid #597600;
   color: white;
   text-align: center;
@@ -42,6 +42,13 @@ a:visited {
   color: #004080;
 }
 
+
+/*header*/
+header {
+  float: center;
+  width: 500px;
+}
+
 /*footer*/
 
 footer {
@@ -52,7 +59,7 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
-  .Div1, .Div2, .footer, .ThemeNav {
+  .Div1, .Div2, footer, .ThemeNav, header {
     width: 100%;
   }
 }
